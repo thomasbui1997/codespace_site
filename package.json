@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{thomasbui1997}.github.io/{codespace_site}'",
+    "build-gh": "parcel build --public-url 'https://thomasbui1997.github.io/codespace_site'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

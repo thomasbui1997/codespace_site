@@ -23,8 +23,7 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm just a city boy. Born and raised in Boston.";
+const description = "I'm just a city boy. Born and raised in Boston.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

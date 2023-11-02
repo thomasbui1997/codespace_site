@@ -32,8 +32,7 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Greatest Project Ever",
-    description:
-      "Does alot of things and is really cool. You should check it out.",
+    description: "Does alot of things and is really cool. You should check it out.",
     url: "www.marines.mil",
   },
 ];
